@@ -19,7 +19,7 @@ https://github.com/YANZ1zz/JXUST-netlogin/releases/latest/download/update.json
 
 下载 [最新版本](https://github.com/YANZ1zz/JXUST-netlogin/releases/latest)，解压后双击 `AutoNetHelper.exe`。
 
-首次运行会被 SmartScreen 拦截，点「更多信息 → 仍要运行」。
+首次运行可能会被 SmartScreen 拦截，点「更多信息 → 仍要运行」。
 
 从 1.5.4 起程序会自动更新，不需要再来这里下载。
 1.5.1 ~ 1.5.3 的旧版没有更新器，需要手动替换最后一次。
